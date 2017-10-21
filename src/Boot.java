@@ -10,10 +10,18 @@ public class Boot {
         }
         */
 
+        /*
         // https://leetcode.com/problems/baseball-game/description/
         String[] input = {"5","-2","4","C","D","9","+","+"};
         BaseballGame baseballGameObj = new BaseballGame();
         int output = baseballGameObj.calPoints(input);
+        System.out.println(output);
+        */
+
+        // https://leetcode.com/problems/distribute-candies/description/
+        int[] input = {1,1,2,2,3,3};
+        DistributeCandies distributeCandiesObj = new DistributeCandies();
+        int output = distributeCandiesObj.distributeCandies(input);
         System.out.println(output);
     }
 }
