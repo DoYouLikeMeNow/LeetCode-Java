@@ -18,10 +18,20 @@ public class Boot {
         System.out.println(output);
         */
 
+        /*
         // https://leetcode.com/problems/distribute-candies/description/
         int[] input = {1,1,2,2,3,3};
         DistributeCandies distributeCandiesObj = new DistributeCandies();
         int output = distributeCandiesObj.distributeCandies(input);
         System.out.println(output);
+        */
+
+        /*
+        // https://leetcode.com/problems/encode-and-decode-tinyurl/description/
+        EncodeAndDecodeTinyURL encodeAndDecodeTinyURLObj = new EncodeAndDecodeTinyURL();
+        System.out.println(encodeAndDecodeTinyURLObj.decode(encodeAndDecodeTinyURLObj.encode("www.google.com")));
+        */
+
+
     }
 }
