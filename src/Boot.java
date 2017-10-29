@@ -32,6 +32,15 @@ public class Boot {
         System.out.println(encodeAndDecodeTinyURLObj.decode(encodeAndDecodeTinyURLObj.encode("www.google.com")));
         */
 
+        /*
+
+        */
+
+        /*
+        int[][] input = {{0,1,0,0},{1,1,1,0},{0,1,0,0},{1,1,0,0}};
+        IslandPerimeter islandPerimeterObj = new IslandPerimeter();
+        System.out.println(islandPerimeterObj.islandPerimeter(input));
+        */
 
     }
 }
