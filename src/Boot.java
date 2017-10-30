@@ -87,6 +87,25 @@ public class Boot {
         System.out.println(fibonacciObj.fibonacci(7));
         */
 
+        /*
+        // http://codingbat.com/prob/p107330
+        BunnyEars2 bunnyEars2Obj = new BunnyEars2();
+        System.out.println(bunnyEars2Obj.bunnyEars2(2));
+        */
+
+        /*
+        // http://codingbat.com/prob/p194781
+        Triangle triangleObj = new Triangle();
+        System.out.println(triangleObj.triangle(3));
+        */
+
+
+        // http://codingbat.com/prob/p163932
+        SumDigits sumDigitsObj = new SumDigits();
+        System.out.println(sumDigitsObj.sumDigits(123));
+
+
+        //
         /////////////////////////////////////////////////////////////////
 
         // https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
