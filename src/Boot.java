@@ -81,6 +81,11 @@ public class Boot {
         System.out.println(bunnyEarsObj.bunnyEars(10));
         */
 
+        /*
+        // http://codingbat.com/prob/p120015
+        Fibonacci fibonacciObj = new Fibonacci();
+        System.out.println(fibonacciObj.fibonacci(7));
+        */
 
         /////////////////////////////////////////////////////////////////
 
