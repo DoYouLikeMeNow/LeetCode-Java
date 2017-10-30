@@ -1,4 +1,4 @@
-import recursionPractice.Factorial;
+import recursionPractice.*;
 
 import javax.security.sasl.SaslServer;
 import java.lang.reflect.Array;
@@ -75,6 +75,11 @@ public class Boot {
         System.out.println(factorialObj.factorial(5));
         */
 
+        /*
+        // http://codingbat.com/prob/p183649
+        BunnyEars bunnyEarsObj = new BunnyEars();
+        System.out.println(bunnyEarsObj.bunnyEars(10));
+        */
 
 
         /////////////////////////////////////////////////////////////////
