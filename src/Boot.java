@@ -54,5 +54,8 @@ public class Boot {
         System.out.println(Arrays.toString(nextGreaterElementIObj.nextGreaterElement(nums1,nums2)));
         */
 
+        // https://leetcode.com/problems/longest-uncommon-subsequence-i/description/
+        LongestUncommonSubsequenceI longestUncommonSubsequenceIObj = new LongestUncommonSubsequenceI();
+        System.out.println(longestUncommonSubsequenceIObj.findLUSlength("aefawfawfawfaw","aefawfeawfwafwaef"));
     }
 }
