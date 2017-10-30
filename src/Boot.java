@@ -1,8 +1,13 @@
+import recursionPractice.Factorial;
+
+import javax.security.sasl.SaslServer;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Boot {
     public static void main(String[] args){
+        //////// Timeline moves in chronological order
+
         /*
         //https://leetcode.com/problems/keyboard-row/description/
         String[] input = {"Hello", "Alaska", "Dad", "Peace"};
@@ -54,8 +59,26 @@ public class Boot {
         System.out.println(Arrays.toString(nextGreaterElementIObj.nextGreaterElement(nums1,nums2)));
         */
 
+        /*
         // https://leetcode.com/problems/longest-uncommon-subsequence-i/description/
         LongestUncommonSubsequenceI longestUncommonSubsequenceIObj = new LongestUncommonSubsequenceI();
         System.out.println(longestUncommonSubsequenceIObj.findLUSlength("aefawfawfawfaw","aefawfeawfwafwaef"));
+        */
+
+        //////////////////////////////////////////////////////////////////
+        // Practicing recursion
+        // http://codingbat.com/java/Recursion-1
+
+        /*
+        // http://codingbat.com/prob/p154669
+        Factorial factorialObj = new Factorial();
+        System.out.println(factorialObj.factorial(5));
+        */
+
+
+
+        /////////////////////////////////////////////////////////////////
+
+        // https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
     }
 }
