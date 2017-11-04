@@ -99,15 +99,28 @@ public class Boot {
         System.out.println(triangleObj.triangle(3));
         */
 
-
+        /*
         // http://codingbat.com/prob/p163932
         SumDigits sumDigitsObj = new SumDigits();
         System.out.println(sumDigitsObj.sumDigits(123));
+        */
 
+        /*
+        // http://codingbat.com/prob/p101409
+        Count7 count7Obj = new Count7();
+        System.out.println(count7Obj.count7(717));
+        */
 
-        //
+        // http://codingbat.com/prob/p192383
+
         /////////////////////////////////////////////////////////////////
 
         // https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
+
+        /*
+        // https://leetcode.com/problems/nim-game/description/
+        NimGame nimGameObj = new NimGame();
+        System.out.println(nimGameObj.canWinNim(8));
+        */
     }
 }
