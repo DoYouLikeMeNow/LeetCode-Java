@@ -122,5 +122,12 @@ public class Boot {
         NimGame nimGameObj = new NimGame();
         System.out.println(nimGameObj.canWinNim(8));
         */
+
+        /*
+        // https://leetcode.com/problems/single-number/description/
+        int[] input = {1,2,3,3,2,1,4};
+        SingleNumber singleNumberObj = new SingleNumber();
+        System.out.println(singleNumberObj.singleNumber(input));
+        */
     }
 }
