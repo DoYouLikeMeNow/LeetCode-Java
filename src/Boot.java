@@ -135,5 +135,10 @@ public class Boot {
         BinaryNumberWithAlternatingBits binaryNumberWithAlternatingBitsObj = new BinaryNumberWithAlternatingBits();
         System.out.println(binaryNumberWithAlternatingBitsObj.hasAlternatingBits(3));
         */
+
+        // https://leetcode.com/problems/max-consecutive-ones/description/
+        MaxConsecutiveOnes maxConsecutiveOnesObj = new MaxConsecutiveOnes();
+        int[] input = {0,0,1,1,0,0,1,1,1};
+        System.out.println(maxConsecutiveOnesObj.findMaxConsecutiveOnes(input));
     }
 }
