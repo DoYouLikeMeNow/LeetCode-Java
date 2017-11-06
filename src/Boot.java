@@ -129,5 +129,11 @@ public class Boot {
         SingleNumber singleNumberObj = new SingleNumber();
         System.out.println(singleNumberObj.singleNumber(input));
         */
+
+        /*
+        // https://leetcode.com/problems/binary-number-with-alternating-bits/description/
+        BinaryNumberWithAlternatingBits binaryNumberWithAlternatingBitsObj = new BinaryNumberWithAlternatingBits();
+        System.out.println(binaryNumberWithAlternatingBitsObj.hasAlternatingBits(3));
+        */
     }
 }
