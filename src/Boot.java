@@ -136,9 +136,43 @@ public class Boot {
         System.out.println(binaryNumberWithAlternatingBitsObj.hasAlternatingBits(3));
         */
 
+        /*
         // https://leetcode.com/problems/max-consecutive-ones/description/
         MaxConsecutiveOnes maxConsecutiveOnesObj = new MaxConsecutiveOnes();
         int[] input = {0,0,1,1,0,0,1,1,1};
         System.out.println(maxConsecutiveOnesObj.findMaxConsecutiveOnes(input));
+        */
+
+        // https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+
+        /*
+        // https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
+        KdiffPairsInanArray kdiffPairsInanArrayObj = new KdiffPairsInanArray();
+        int[] input = {3, 1, 4, 1, 5};
+        System.out.println(kdiffPairsInanArrayObj.findPairs(input, 2));
+*/
+        /*
+        t1 t1Obj = new t1();
+        //System.out.println(t1Obj.numMoves(3214,4321));
+        int[] a = {1234,4321};
+        int[] m = {2345,3214};
+        System.out.println(t1Obj.minimumMoves(a,m));
+        */
+
+        /*
+        t2 t2Obj = new t2();
+        int[] input = {1,2,3};
+        System.out.println(t2Obj.subarraySum(input));
+        */
+
+        /*
+        t3 t3Obj = new t3();
+        int[] input = {1,4,5,2,6};
+        System.out.println(t3Obj.longestSubSeq(input));
+        */
+
+        CountingBits countingBitsObj = new CountingBits();
+        int[] res = countingBitsObj.countBits(5);
+        System.out.println((Arrays.toString(res)));
     }
 }
