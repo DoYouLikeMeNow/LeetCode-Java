@@ -179,10 +179,33 @@ public class Boot {
         System.out.println((Arrays.toString(res)));
         */
 
+        /*
         // https://leetcode.com/problems/assign-cookies/description/
         AssignCookies assignCookies = new AssignCookies();
         int[] g = {2,1};
         int[] s = {3,1,2};
         System.out.println(assignCookies.findContentChildren(g,s));
+        */
+
+        // https://leetcode.com/problems/power-of-four/description/
+        PowerOfFour powerOfFour = new PowerOfFour();
+
+        if(powerOfFour.isPowerOfFour(16))
+            System.out.println("16 - yes");
+
+        else
+            System.out.println("16 - no");
+
+        if(powerOfFour.isPowerOfFour(12))
+            System.out.println("12 - yes");
+
+        else
+            System.out.println("12 - no");
+
+        if(powerOfFour.isPowerOfFour(256))
+            System.out.println("256 - yes");
+
+        else
+            System.out.println("256 - no");
     }
 }
