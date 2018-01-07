@@ -171,8 +171,18 @@ public class Boot {
         System.out.println(t3Obj.longestSubSeq(input));
         */
 
+        /*
+        // https://leetcode.com/problems/counting-bits/description/
+
         CountingBits countingBitsObj = new CountingBits();
         int[] res = countingBitsObj.countBits(5);
         System.out.println((Arrays.toString(res)));
+        */
+
+        // https://leetcode.com/problems/assign-cookies/description/
+        AssignCookies assignCookies = new AssignCookies();
+        int[] g = {2,1};
+        int[] s = {3,1,2};
+        System.out.println(assignCookies.findContentChildren(g,s));
     }
 }
