@@ -187,6 +187,7 @@ public class Boot {
         System.out.println(assignCookies.findContentChildren(g,s));
         */
 
+        /*
         // https://leetcode.com/problems/power-of-four/description/
         PowerOfFour powerOfFour = new PowerOfFour();
 
@@ -207,5 +208,11 @@ public class Boot {
 
         else
             System.out.println("256 - no");
+        */
+
+        // https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+        ReverseVowelsOfAString reverseVowelsOfAString = new ReverseVowelsOfAString();
+        String str = reverseVowelsOfAString.reverseVowels("hello");
+        System.out.println(str);
     }
 }
