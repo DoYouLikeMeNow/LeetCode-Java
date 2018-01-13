@@ -2,7 +2,9 @@ import recursionPractice.*;
 
 import javax.security.sasl.SaslServer;
 import java.lang.reflect.Array;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class Boot {
     public static void main(String[] args){
@@ -210,9 +212,23 @@ public class Boot {
             System.out.println("256 - no");
         */
 
+        /*
         // https://leetcode.com/problems/reverse-vowels-of-a-string/description/
         ReverseVowelsOfAString reverseVowelsOfAString = new ReverseVowelsOfAString();
         String str = reverseVowelsOfAString.reverseVowels("hello");
         System.out.println(str);
+        */
+
+        /*
+        // https://leetcode.com/problems/majority-element-ii/description/
+        MajorityElementII majorityElementII = new MajorityElementII();
+        int[] nums = {1,1,1,1,2,3,4,5,5,5};
+        List<Integer> l;
+        l = majorityElementII.majorityElement(nums);
+        for (Integer i : l)
+        {
+            System.out.println(i);
+        }
+        */
     }
 }
