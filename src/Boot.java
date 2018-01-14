@@ -230,5 +230,16 @@ public class Boot {
             System.out.println(i);
         }
         */
+
+        /*
+        FactorialTrailingZeroes factorialTrailingZeroes = new FactorialTrailingZeroes();
+        int n = factorialTrailingZeroes.trailingZeroes(627);
+        System.out.println(n);
+        */
+
+        // https://leetcode.com/problems/repeated-string-match/description/
+        RepeatedStringMatch repeatedStringMatch = new RepeatedStringMatch();
+        int n = repeatedStringMatch.repeatedStringMatch("abcd", "cdabcdabcda");
+        System.out.println(n);
     }
 }
