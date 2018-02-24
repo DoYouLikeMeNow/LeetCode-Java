@@ -1,4 +1,7 @@
+import contests.MaxChunksToMakeSortedV1;
+import contests.ToeplitzMatrix;
 import recursionPractice.*;
+import imc.*;
 
 import javax.security.sasl.SaslServer;
 import java.lang.reflect.Array;
@@ -237,9 +240,60 @@ public class Boot {
         System.out.println(n);
         */
 
+        /*
         // https://leetcode.com/problems/repeated-string-match/description/
         RepeatedStringMatch repeatedStringMatch = new RepeatedStringMatch();
         int n = repeatedStringMatch.repeatedStringMatch("abcd", "cdabcdabcda");
         System.out.println(n);
+        */
+
+        /* //incomplete
+        // https://leetcode.com/problems/longest-word-in-dictionary/description/
+        LongestWordInDictionary longestWordInDictionary = new LongestWordInDictionary();
+        String[] words = {"rac","rs","ra","on","r","otif","o","onpdu","rsf","rs","ot","oti","racy","onpd"};
+        String result = longestWordInDictionary.longestWord(words);
+        System.out.println(result);
+        */
+
+        /*
+        ToeplitzMatrix toeplitzMatrix = new ToeplitzMatrix();
+        int[][] matrix = {{1,2,3,4},{5,1,2,3},{9,5,1,2}};
+        if(toeplitzMatrix.isToeplitzMatrix(matrix))
+            System.out.println("True");
+        else
+            System.out.println("False");
+        */
+
+        /*
+        MaxChunksToMakeSortedV1 maxChunksToMakeSortedV1 = new MaxChunksToMakeSortedV1();
+        int[] arr = {1,2,3,4,5,0};
+        System.out.println(maxChunksToMakeSortedV1.maxChunksToSorted(arr));
+        */
+
+        /*
+        Q1 q1 = new Q1();
+        int num = q1.solution("bb12");
+        System.out.println(num);
+        */
+
+        /*
+        Q2 q2 = new Q2();
+        int[] A = {200,200,201};
+        int[] B = {2,3,5};
+        int floorStop = q2.solution(A,B,5,2,200);
+        System.out.println(floorStop);
+        */
+
+        Q3 q3 = new Q3();
+        int[][] A = {{5,4,4},
+                {4,3,4},
+                {3,2,4},
+                {2,2,2},
+                {3,3,4},
+                {1,4,4},
+                {4,1,1}
+                };
+        int total = q3.solution(A);
+        System.out.println(total);
     }
 }
