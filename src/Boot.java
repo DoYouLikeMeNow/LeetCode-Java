@@ -284,6 +284,7 @@ public class Boot {
         System.out.println(floorStop);
         */
 
+        /*
         Q3 q3 = new Q3();
         int[][] A = {{5,4,4},
                 {4,3,4},
@@ -295,5 +296,9 @@ public class Boot {
                 };
         int total = q3.solution(A);
         System.out.println(total);
+        */
+
+        algo762 algo762Obj = new algo762();
+        System.out.println(algo762Obj.countPrimeSetBits(1,3));
     }
 }
