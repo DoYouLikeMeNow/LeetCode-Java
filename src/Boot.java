@@ -8,6 +8,7 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class Boot {
     public static void main(String[] args){
@@ -298,7 +299,18 @@ public class Boot {
         System.out.println(total);
         */
 
+        /*
+        // https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/#
         algo762 algo762Obj = new algo762();
         System.out.println(algo762Obj.countPrimeSetBits(1,3));
+        */
+
+        /*// https://leetcode.com/problems/number-of-1-bits/description/
+        Algo191 algo191Obj = new Algo191();
+        System.out.println(algo191Obj.hammingWeight(111234));*/
+
+        // https://leetcode.com/problems/reverse-bits/description/
+        Algo190 algo190 = new Algo190();
+        System.out.println(algo190.reverseBits(1));
     }
 }
