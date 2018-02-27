@@ -309,8 +309,17 @@ public class Boot {
         Algo191 algo191Obj = new Algo191();
         System.out.println(algo191Obj.hammingWeight(111234));*/
 
+        /*
         // https://leetcode.com/problems/reverse-bits/description/
         Algo190 algo190 = new Algo190();
         System.out.println(algo190.reverseBits(1));
+        */
+
+        /*
+        // https://leetcode.com/problems/reverse-integer/description/
+        Algo7 algo7 =  new Algo7();
+        System.out.println(algo7.reverse(1999999999));
+        */
+
     }
 }
