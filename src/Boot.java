@@ -5,9 +5,7 @@ import imc.*;
 
 import javax.security.sasl.SaslServer;
 import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Boot {
@@ -320,6 +318,14 @@ public class Boot {
         Algo7 algo7 =  new Algo7();
         System.out.println(algo7.reverse(1999999999));
         */
+
+        // https://leetcode.com/problems/word-pattern/description/
+        Algo290 algo290 = new Algo290();
+        if(algo290.wordPattern("jquery", "jquery"))
+            System.out.println("True");
+
+        else
+            System.out.println("False");
 
     }
 }
