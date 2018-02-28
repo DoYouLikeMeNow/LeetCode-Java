@@ -319,6 +319,7 @@ public class Boot {
         System.out.println(algo7.reverse(1999999999));
         */
 
+        /*
         // https://leetcode.com/problems/word-pattern/description/
         Algo290 algo290 = new Algo290();
         if(algo290.wordPattern("jquery", "jquery"))
@@ -326,6 +327,12 @@ public class Boot {
 
         else
             System.out.println("False");
+        */
 
+        /*
+        // https://leetcode.com/problems/repeated-dna-sequences/description/
+        Algo187 algo187 = new Algo187();
+        System.out.println(algo187.findRepeatedDnaSequences("AAAAAAAAAAAA"));
+        */
     }
 }

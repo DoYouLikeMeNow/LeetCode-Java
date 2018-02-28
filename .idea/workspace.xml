@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="447b547a-e810-49a9-b8dc-b5f0a319b42a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Boot.java" afterPath="$PROJECT_DIR$/src/Boot.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Boot.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Boot.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Boot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="313" column="10" lean-forward="true" selection-start-line="313" selection-start-column="10" selection-end-line="313" selection-end-column="10" />
+            <state relative-caret-position="454">
+              <caret line="335" column="10" lean-forward="false" selection-start-line="335" selection-start-column="10" selection-end-line="335" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Algo290.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algo290.java">
+      <file leaf-file-name="Algo674.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algo674.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="87" />
               <folding />
             </state>
           </provider>
@@ -65,7 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/KeyboardRow.java" />
         <option value="$PROJECT_DIR$/src/BaseballGame.java" />
         <option value="$PROJECT_DIR$/src/DistributeCandies.java" />
         <option value="$PROJECT_DIR$/src/EncodeAndDecodeTinyURL.java" />
@@ -113,8 +111,10 @@
         <option value="$PROJECT_DIR$/src/Algo191.java" />
         <option value="$PROJECT_DIR$/src/Algo190.java" />
         <option value="$PROJECT_DIR$/src/Algo7.java" />
-        <option value="$PROJECT_DIR$/src/Boot.java" />
         <option value="$PROJECT_DIR$/src/Algo290.java" />
+        <option value="$PROJECT_DIR$/src/Algo187.java" />
+        <option value="$PROJECT_DIR$/src/Algo674.java" />
+        <option value="$PROJECT_DIR$/src/Boot.java" />
       </list>
     </option>
   </component>
@@ -322,12 +322,12 @@
       <workItem from="1517004120137" duration="9780000" />
       <workItem from="1517459500969" duration="1568000" />
       <workItem from="1519480280256" duration="10728000" />
-      <workItem from="1519758054907" duration="5182000" />
+      <workItem from="1519758054907" duration="8662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111637000" />
+    <option name="totallyTimeSpent" value="115117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -419,28 +419,11 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="36" />
+      <option name="time" value="38" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Boot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TrimABinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/KeyboardRow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -777,21 +760,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Boot.java">
+    <entry file="file://$PROJECT_DIR$/src/Algo290.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="313" column="10" lean-forward="true" selection-start-line="313" selection-start-column="10" selection-end-line="313" selection-end-column="10" />
+        <state relative-caret-position="357">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algo187.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algo290.java">
+    <entry file="file://$PROJECT_DIR$/src/Algo674.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="87" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Boot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="335" column="10" lean-forward="false" selection-start-line="335" selection-start-column="10" selection-end-line="335" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
