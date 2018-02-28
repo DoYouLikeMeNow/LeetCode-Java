@@ -334,5 +334,20 @@ public class Boot {
         Algo187 algo187 = new Algo187();
         System.out.println(algo187.findRepeatedDnaSequences("AAAAAAAAAAAA"));
         */
+
+        /*
+        Algo674 algo674 = new Algo674();
+        int[] input = {2};
+        System.out.println(algo674.findLengthOfLCIS(input));
+        */
+
+        /*
+        // https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+        Algo121 algo121 = new Algo121();
+        int[] input = {6,6,6,7,6,6};
+        System.out.println(algo121.maxProfit(input));
+        */
+
+
     }
 }

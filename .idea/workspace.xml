@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="447b547a-e810-49a9-b8dc-b5f0a319b42a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algo674.java" afterPath="$PROJECT_DIR$/src/Algo674.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Boot.java" afterPath="$PROJECT_DIR$/src/Boot.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,21 +18,11 @@
       <file leaf-file-name="Boot.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Boot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="335" column="10" lean-forward="false" selection-start-line="335" selection-start-column="10" selection-end-line="335" selection-end-column="10" />
+            <state relative-caret-position="538">
+              <caret line="350" column="8" lean-forward="false" selection-start-line="350" selection-start-column="8" selection-end-line="350" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Algo674.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algo674.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="87" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -64,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BaseballGame.java" />
         <option value="$PROJECT_DIR$/src/DistributeCandies.java" />
         <option value="$PROJECT_DIR$/src/EncodeAndDecodeTinyURL.java" />
         <option value="$PROJECT_DIR$/src/TrimABinarySearchTree.java" />
@@ -114,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/Algo290.java" />
         <option value="$PROJECT_DIR$/src/Algo187.java" />
         <option value="$PROJECT_DIR$/src/Algo674.java" />
+        <option value="$PROJECT_DIR$/src/Algo121.java" />
         <option value="$PROJECT_DIR$/src/Boot.java" />
       </list>
     </option>
@@ -322,12 +313,12 @@
       <workItem from="1517004120137" duration="9780000" />
       <workItem from="1517459500969" duration="1568000" />
       <workItem from="1519480280256" duration="10728000" />
-      <workItem from="1519758054907" duration="8662000" />
+      <workItem from="1519758054907" duration="10506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115117000" />
+    <option name="totallyTimeSpent" value="116961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -419,18 +410,11 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="38" />
+      <option name="time" value="40" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/KeyboardRow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BaseballGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
@@ -773,23 +757,31 @@
         <state relative-caret-position="475">
           <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algo674.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="87" />
+        <state relative-caret-position="63">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algo121.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Boot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="335" column="10" lean-forward="false" selection-start-line="335" selection-start-column="10" selection-end-line="335" selection-end-column="10" />
+        <state relative-caret-position="538">
+          <caret line="350" column="8" lean-forward="false" selection-start-line="350" selection-start-column="8" selection-end-line="350" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
