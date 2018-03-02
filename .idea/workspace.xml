@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="447b547a-e810-49a9-b8dc-b5f0a319b42a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algo674.java" afterPath="$PROJECT_DIR$/src/Algo674.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Java/Boot.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Boot.java" afterPath="$PROJECT_DIR$/src/Boot.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,11 +18,21 @@
       <file leaf-file-name="Boot.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Boot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="350" column="8" lean-forward="false" selection-start-line="350" selection-start-column="8" selection-end-line="350" selection-end-column="8" />
+            <state relative-caret-position="454">
+              <caret line="353" column="1047" lean-forward="true" selection-start-line="353" selection-start-column="23" selection-end-line="353" selection-end-column="1047" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Algo477.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algo477.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DistributeCandies.java" />
         <option value="$PROJECT_DIR$/src/EncodeAndDecodeTinyURL.java" />
         <option value="$PROJECT_DIR$/src/TrimABinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/IslandPerimeter.java" />
@@ -106,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/Algo674.java" />
         <option value="$PROJECT_DIR$/src/Algo121.java" />
         <option value="$PROJECT_DIR$/src/Boot.java" />
+        <option value="$PROJECT_DIR$/src/Algo477.java" />
       </list>
     </option>
   </component>
@@ -116,10 +126,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="42" />
-    <option name="y" value="20" />
-    <option name="width" value="1772" />
-    <option name="height" value="990" />
+    <option name="x" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -313,12 +325,12 @@
       <workItem from="1517004120137" duration="9780000" />
       <workItem from="1517459500969" duration="1568000" />
       <workItem from="1519480280256" duration="10728000" />
-      <workItem from="1519758054907" duration="10506000" />
+      <workItem from="1519758054907" duration="15280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116961000" />
+    <option name="totallyTimeSpent" value="121735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -410,18 +422,11 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="40" />
+      <option name="time" value="43" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BaseballGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DistributeCandies.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -778,10 +783,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algo477.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Boot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="350" column="8" lean-forward="false" selection-start-line="350" selection-start-column="8" selection-end-line="350" selection-end-column="8" />
+        <state relative-caret-position="454">
+          <caret line="353" column="1047" lean-forward="true" selection-start-line="353" selection-start-column="23" selection-end-line="353" selection-end-column="1047" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
