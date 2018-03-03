@@ -4,7 +4,7 @@ public class Q2
 {
     public long countSteps(int n)
     {
-        /*if(n <= 0) return 0;
+        if(n <= 0) return 0;
         if(n == 1) return 1;
         if(n == 2) return 2;
         if(n == 3) return 4;
@@ -20,8 +20,6 @@ public class Q2
             two_steps_before = one_step_before;
             one_step_before = all_ways;
         }
-        return all_ways;*/
-
-        int[] dyn = new int[n + 1];
+        return all_ways;
     }
 }

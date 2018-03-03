@@ -370,7 +370,18 @@ public class Boot {
         System.out.println(q1.secondSmallest(input));
         */
 
+        /*
         Q2 q2 = new Q2();
         System.out.println(q2.countSteps(5));
+        */
+
+        /*
+        // https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+        int[] input = {4,3,2,7,8,2,3,1,2,2,2};
+        Algo442 algo442 = new Algo442();
+        System.out.println(algo442.findDuplicates(input));
+        */
+
+
     }
 }
