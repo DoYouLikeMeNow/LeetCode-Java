@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="447b547a-e810-49a9-b8dc-b5f0a319b42a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Boot.java" afterPath="$PROJECT_DIR$/src/Boot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GoldmanSachs/Q2.java" afterPath="$PROJECT_DIR$/src/GoldmanSachs/Q2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,21 @@
       <file leaf-file-name="Boot.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Boot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="384" column="8" lean-forward="false" selection-start-line="384" selection-start-column="8" selection-end-line="384" selection-end-column="8" />
+            <state relative-caret-position="499">
+              <caret line="388" column="10" lean-forward="false" selection-start-line="388" selection-start-column="10" selection-end-line="388" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Algo434.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algo434.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LongestUncommonSubsequenceI.java" />
         <option value="$PROJECT_DIR$/src/templates/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/AverageOfLevelsInBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/recursionPractice/Factorial.java" />
@@ -107,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/GoldmanSachs/Q1.java" />
         <option value="$PROJECT_DIR$/src/GoldmanSachs/Q2.java" />
         <option value="$PROJECT_DIR$/src/Algo442.java" />
+        <option value="$PROJECT_DIR$/src/Algo434.java" />
         <option value="$PROJECT_DIR$/src/Boot.java" />
       </list>
     </option>
@@ -317,12 +327,12 @@
       <workItem from="1517004120137" duration="9780000" />
       <workItem from="1517459500969" duration="1568000" />
       <workItem from="1519480280256" duration="10728000" />
-      <workItem from="1519758054907" duration="21667000" />
+      <workItem from="1519758054907" duration="22976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128122000" />
+    <option name="totallyTimeSpent" value="129431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -414,18 +424,11 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="43" />
+      <option name="time" value="44" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NextGreaterElementI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LongestUncommonSubsequenceI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -793,10 +796,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algo434.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Boot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="384" column="8" lean-forward="false" selection-start-line="384" selection-start-column="8" selection-end-line="384" selection-end-column="8" />
+        <state relative-caret-position="499">
+          <caret line="388" column="10" lean-forward="false" selection-start-line="388" selection-start-column="10" selection-end-line="388" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -382,6 +382,10 @@ public class Boot {
         System.out.println(algo442.findDuplicates(input));
         */
 
-
+        /*
+        // https://leetcode.com/problems/number-of-segments-in-a-string/description/
+        Algo434 algo434 = new Algo434();
+        System.out.println(algo434.countSegments(", , , ,        a, eaefa"));
+        */
     }
 }
