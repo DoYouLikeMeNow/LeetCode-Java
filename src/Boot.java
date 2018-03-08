@@ -5,6 +5,8 @@ import contests.MaxChunksToMakeSortedV1;
 import contests.ToeplitzMatrix;
 import recursionPractice.*;
 import imc.*;
+import temp.Rough1;
+import temp.Rough2;
 
 import javax.security.sasl.SaslServer;
 import java.lang.reflect.Array;
@@ -387,5 +389,25 @@ public class Boot {
         Algo434 algo434 = new Algo434();
         System.out.println(algo434.countSegments(", , , ,        a, eaefa"));
         */
+
+        /*
+        Algo96 algo96 = new Algo96();
+        System.out.println(algo96.numTrees(100));
+        */
+
+        /*
+        Rough1 rough1 = new Rough1();
+        String[] input = {"GoCardinals","Doge","nExTcapITalxnextcapital","ThreeSThree"};
+        String[] output = rough1.passModify(input);
+
+        for(String str : output)
+        {
+            System.out.println(str);
+        }
+        */
+
+        Rough2 rough2 = new Rough2();
+        int[][] input = {{1,10},{1,6},{2,8},{3,5}};
+        System.out.println(rough2.maxFlorists(9,input));
     }
 }
