@@ -406,8 +406,28 @@ public class Boot {
         }
         */
 
+        /*
         Rough2 rough2 = new Rough2();
         int[][] input = {{1,10},{1,6},{2,8},{3,5}};
         System.out.println(rough2.maxFlorists(9,input));
+        */
+
+        /*
+        // https://leetcode.com/problems/valid-square/description/
+        Algo593 algo593 = new Algo593();
+        int[] p1 = {0,0}, p2 = {1,1}, p3 = {1,0}, p4 = {0,1};
+
+        if(algo593.validSquare(p1, p2, p3, p4))
+        {
+            System.out.println("True");
+        }
+
+        else
+        {
+            System.out.println("False");
+        }
+        */
+
+        
     }
 }
