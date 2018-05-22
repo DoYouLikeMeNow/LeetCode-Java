@@ -428,6 +428,9 @@ public class Boot {
         }
         */
 
-        
+        // https://leetcode.com/problems/license-key-formatting/description/
+        Algo482 algo482Obj = new Algo482();
+        String outS = algo482Obj.licenseKeyFormatting("5F3Z-2e-9-w",4);
+        System.out.println(outS);
     }
 }
