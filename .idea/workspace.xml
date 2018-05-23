@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="447b547a-e810-49a9-b8dc-b5f0a319b42a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algo482.java" afterPath="$PROJECT_DIR$/src/Algo482.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Java/Boot.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Boot.java" afterPath="$PROJECT_DIR$/src/Boot.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,8 +19,8 @@
       <file leaf-file-name="Boot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Boot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="431" column="43" lean-forward="true" selection-start-line="431" selection-start-column="43" selection-end-line="431" selection-end-column="43" />
+            <state relative-caret-position="433">
+              <caret line="439" column="40" lean-forward="true" selection-start-line="439" selection-start-column="40" selection-end-line="439" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Algo482.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algo482.java">
+      <file leaf-file-name="Algo565.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Algo565.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="1155">
+              <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -69,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/recursionPractice/BunnyEars2.java" />
         <option value="$PROJECT_DIR$/src/recursionPractice/Triangle.java" />
         <option value="$PROJECT_DIR$/src/SumDigits.java" />
         <option value="$PROJECT_DIR$/src/recursionPractice/Count7.java" />
@@ -120,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/Algo593.java" />
         <option value="$PROJECT_DIR$/src/Algo482.java" />
         <option value="$PROJECT_DIR$/src/Boot.java" />
+        <option value="$PROJECT_DIR$/src/Algo565.java" />
       </list>
     </option>
   </component>
@@ -335,12 +336,12 @@
       <workItem from="1521147446926" duration="40000" />
       <workItem from="1521557506160" duration="1191000" />
       <workItem from="1525660883994" duration="27000" />
-      <workItem from="1526594105771" duration="6084000" />
+      <workItem from="1526594105771" duration="14447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154151000" />
+    <option name="totallyTimeSpent" value="162514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -432,18 +433,11 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="66" />
+      <option name="time" value="67" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/recursionPractice/BunnyEars2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/recursionPractice/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -789,20 +783,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algo482.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Boot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="431" column="43" lean-forward="true" selection-start-line="431" selection-start-column="43" selection-end-line="431" selection-end-column="43" />
+        <state relative-caret-position="433">
+          <caret line="439" column="40" lean-forward="true" selection-start-line="439" selection-start-column="40" selection-end-line="439" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algo482.java">
+    <entry file="file://$PROJECT_DIR$/src/Algo565.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="1155">
+          <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
           <folding />
         </state>
       </provider>
