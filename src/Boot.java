@@ -7,6 +7,7 @@ import recursionPractice.*;
 import imc.*;
 import temp.Rough1;
 import temp.Rough2;
+import templates.ListNode;
 
 import javax.security.sasl.SaslServer;
 import java.lang.reflect.Array;
@@ -447,6 +448,20 @@ public class Boot {
         System.out.println(algo362.isPowerOfThree(1));
         */
 
+        /*
+        * *************** todo
+        //https://leetcode.com/problems/merge-two-sorted-lists/description/
+        Algo21 algo21 = new Algo21();
+        ListNode
+        algo21.mergeTwoLists()
+         *********/
 
+        /*
+        //https://leetcode.com/problems/jewels-and-stones/description/
+        Algo771 algo771 = new Algo771();
+        String  J = "aA";
+        String S = "aAAbbbb";
+        System.out.println(algo771.numJewelsInStones(J,S));
+        */
     }
 }
