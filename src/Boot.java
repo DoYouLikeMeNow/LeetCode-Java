@@ -435,8 +435,18 @@ public class Boot {
         System.out.println(outS);
         */
 
+        /*
         Algo565 algo565 = new Algo565();
         int[] input = {5,4,0,3,1,6,2};
         System.out.println(algo565.arrayNesting(input));
+        */
+
+        /*
+        //https://leetcode.com/problems/power-of-three/description/
+        Algo362 algo362 = new Algo362();
+        System.out.println(algo362.isPowerOfThree(1));
+        */
+
+
     }
 }
