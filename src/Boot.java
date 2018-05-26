@@ -463,5 +463,13 @@ public class Boot {
         String S = "aAAbbbb";
         System.out.println(algo771.numJewelsInStones(J,S));
         */
+
+        /*
+        Algo804 algo804 = new Algo804();
+        String[] words = {"gin", "zen", "gig", "msg"};
+        System.out.println(algo804.uniqueMorseRepresentations(words));
+        */
+
+
     }
 }
