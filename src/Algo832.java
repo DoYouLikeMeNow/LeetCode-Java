@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/self-dividing-numbers/description/
+
 public class Algo832
 {
     public int[][] flipAndInvertImage(int[][] A) {
@@ -5,31 +7,45 @@ public class Algo832
 
         for(int i = 0; i < A.length; i++)
         {
-            for(int j = 0; j < A[0].length / 2; j++)
+            for(int j = 0; j < (float) A[0].length / 2; j++)
             {
                 temp = A[i][j];
-                if(A[i][A[0].length - 1 - j] == 0)
+
+                if(j != A[0].length - 1 - j)
                 {
-                    A[i][j] = 1;
+                    if (A[i][A[0].length - 1 - j] == 0)
+                    {
+                        A[i][j] = 1;
+                    }
+
+                    else
+                    {
+                        A[i][j] = 0;
+                    }
+
+                    if (temp == 0)
+                    {
+                        A[i][A[0].length - 1 - j] = 1;
+                    }
+
+                    else
+                    {
+                        A[i][A[0].length - 1 - j] = 0;
+                    }
                 }
 
                 else
                 {
-                    A[i][j] = 0;
-                }
+                    if(A[i][j] == 0)
+                    {
+                        A[i][j] = 1;
+                    }
 
-                if(temp == 0)
-                {
-                    A[i][A[0].length - 1 - j] = 1;
+                    else
+                    {
+                        A[i][j] = 0;
+                    }
                 }
-
-                else
-                {
-                    A[i][A[0].length - 1 - j] = 0;
-                }
-
-                //A[i][j] = A[i][A[0].length - 1 - j];
-                //A[i][A[0].length - 1 - j] = temp;
             }
         }
 

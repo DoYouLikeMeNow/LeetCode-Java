@@ -470,6 +470,21 @@ public class Boot {
         System.out.println(algo804.uniqueMorseRepresentations(words));
         */
 
+        /*
+        //https://leetcode.com/problems/self-dividing-numbers/description/
+        Algo832 algo832 = new Algo832();
+        int[][] input = {{1,1,0},{1,0,1},{0,0,0}};
+        //int[][] input = {{1,1,0,0},{1,0,0,1},{0,1,1,1},{1,0,1,0}};
+        int[][] output = algo832.flipAndInvertImage(input);
 
+        for(int i = 0; i < output.length; i++)
+        {
+            for(int j = 0; j < output[0].length; j++)
+            {
+                System.out.print(output[i][j] + " ");
+            }
+            System.out.println("");
+        }
+        */
     }
 }
